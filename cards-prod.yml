@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs Test Bus 3rd time testing webhook"
+  message: "Welcome to EazyBank cards related prod APIs Test Bus 3rd time testing webhook in docker 1st time"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
