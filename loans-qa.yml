@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related QA APIs -now testing actuator api"
+  message: "Welcome to EazyBank loans related QA APIs -now testing actuator api - Test Bus"
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@eazybank.com"
