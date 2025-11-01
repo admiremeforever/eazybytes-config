@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs -Now Testing Actuator - Test BUS 2nd time"
+  message: "Welcome to EazyBank cards related QA APIs -Now Testing Actuator - Test BUS 3rd time"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@eazybank.com"

@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs- Test Bus 2nd time "
+  message: "Welcome to EazyBank accounts related QA APIs- Test Bus 3rd time "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
